@@ -25,7 +25,7 @@ yfinance for downloading stock data
 
 # Clone this repository to your local machine:
 Copy code
-git clone https://github.com/rsm-rkalkundre/stock-price-prediction.git
+git clone https://github.com/rsm-rkalkundre/Apple-stock-price-prediction.git
 cd stock-price-prediction
 
 # Usage
