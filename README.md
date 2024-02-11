@@ -3,9 +3,12 @@
 This project explores the application of several machine learning and deep learning models, including Linear Regression, Random Forest, and Long Short-Term Memory (LSTM), to predict stock prices. By analyzing historical data, the project aims to forecast future stock trends, providing valuable insights for investment strategies.
 
 # Models Used
-## Linear Regression: To establish a baseline for stock price prediction based on historical data.
-## Random Forest: To capture non-linear relationships in the data for more accurate predictions.
-## LSTM: To leverage sequential data for predicting future stock prices, considering time dependencies.
+#### Linear Regression: 
+To establish a baseline for stock price prediction based on historical data.
+#### Random Forest: 
+To capture non-linear relationships in the data for more accurate predictions.
+#### LSTM: 
+To leverage sequential data for predicting future stock prices, considering time dependencies.
 
 # Dataset
 The dataset comprises historical stock prices, including open, high, low, close, and volume data, sourced from yfinance library. The analysis focuses on predicting the adjusted close prices for stocks over a specified period.
